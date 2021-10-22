@@ -1,0 +1,1 @@
+select * from tb_Empregado where RG_Gerent = 101010

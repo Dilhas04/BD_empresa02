@@ -1,0 +1,1 @@
+select Nome, RG from tb_Empregado where Salario <= '2500'

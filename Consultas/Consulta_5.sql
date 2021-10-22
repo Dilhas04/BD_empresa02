@@ -1,0 +1,1 @@
+select RG_Emp, Num_Proj from tb_Emp_Proj where Horas=35 

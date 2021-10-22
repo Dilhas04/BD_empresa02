@@ -1,0 +1,1 @@
+select DependNome from tb_Dependente where Sexo='M' and RGResp='202020'

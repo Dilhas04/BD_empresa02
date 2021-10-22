@@ -1,0 +1,1 @@
+select Nome from tb_Empregado
